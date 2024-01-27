@@ -1,0 +1,4 @@
+create user 'sangeethkumarpg'@'%' identified by 'Password';
+
+
+grant all on java.* to 'sangeethkumarpg'@'%';
